@@ -10,5 +10,5 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img height="500" width="100%" src="img/readme.png">
+  <img src="img/finance.png">
 </div>
