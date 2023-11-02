@@ -1,5 +1,6 @@
-## <h3 align="center">Projeto Finans </h3>
-## <p align="center">Projeto Finans do curso de Desenvolvimento Web Completo - Udemy. </p>
+## <h1 align="center">Projeto Finans </h1>
+<p align="center">Projeto Finans do curso de Desenvolvimento Web Completo - Udemy.</p><br>
+<a href="https://sarahprando.github.io/Finans/" align="center">Link do projeto</a>
 
 <div style="display: inline_block" align="center"><br>
   <img alt="Sarah-Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
@@ -9,5 +10,5 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img height="200" width="200" src="img/desenvolvedor-de-software.png">
+  <img height="500" width="100%" src="img/readme.png">
 </div>
